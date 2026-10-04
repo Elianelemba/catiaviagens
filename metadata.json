@@ -1,0 +1,7 @@
+{
+  "name": "Cátia Viagens - Turismo em Angola",
+  "description": "App de viagens e reservas em Angola: voos TAAG, resorts, ecoturismo e expedições com pagamento Multicaixa Express.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
